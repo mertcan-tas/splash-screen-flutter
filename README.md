@@ -1,4 +1,4 @@
-# Flutter Splash Screen With GetX Innıtal Binding
+# Flutter Splash Screen With GetX Initial Binding
 
 A new Flutter project.
 
