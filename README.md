@@ -1,4 +1,4 @@
-# state_m
+# Flutter Splash Screen With GetX Innıtal Binding
 
 A new Flutter project.
 
